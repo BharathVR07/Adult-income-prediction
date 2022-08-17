@@ -9,6 +9,8 @@
 ## Resources Used
 • Packages: pandas, numpy, matplotlib, seaborn, scikit-learn.
 
+• Dataset by Kaggle : https://www.kaggle.com/datasets/wenruliu/adult-income-dataset
+
 ## Exploratory Data Analysis (EDA) and Data Cleaning
 • Replacing the features having ? with mode imputation. (occupation, country, workclass)
 
