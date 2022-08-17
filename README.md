@@ -16,7 +16,7 @@
 
 ![image](https://user-images.githubusercontent.com/110616143/185020503-4472bded-bf15-4587-b21e-5a26895319ce.png)
 
-• Plotted bargraphs, pie charts,countplots and heatmap for numerical and categorical features for EDA.
+• Plotted bargraphs, pie charts, countplots and heatmap for numerical and categorical features for EDA.
 
 ![image](https://user-images.githubusercontent.com/110616143/185020673-f3e6edd2-f5f6-4a1d-9e80-3984ba17aec3.png)
 
